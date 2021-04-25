@@ -11,10 +11,10 @@ L3=10;
 L4=10;
 
 %% tipo de articulación teta/d/a/alfa/
-L(1)=Link([0 0 L2 0 0]); 
+L(1)=Link([0 L4 L2 0 0]); 
 L(2)=Link([0 L1 L3 0 0]);
 L(3)=Link([0 0 0 pi 0]);
-L(4)=Link([0 L4 0 0 1]);
+L(4)=Link([0 0 0 0 1]);
 
 Ej2=SerialLink(L);
 Ej2.name='cilindrico';
