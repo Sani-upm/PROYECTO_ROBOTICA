@@ -27,7 +27,7 @@ INV_A3=     [ cos(v3 - pi/2), -sin(v3 - pi/2),               0, 0
 
 
 %% A2*A3*A4
-A2A3A4 = A2* A3 * A4
+A2A3A4 = A2 * A3 * A4
 A3A4 = A3 * A4
 
 %INV_A1*T 
