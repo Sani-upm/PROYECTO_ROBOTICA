@@ -1,6 +1,6 @@
 %% QUEREMOS OBTENER LA MATRIZ T PERO EN LA POSICION 0,0,0,0,
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% GUARDAMOS EL VALOR DE A_sdr en T
 T = A_sdr;
 
